@@ -1,0 +1,1 @@
+{"name":"Myna Player","short_name":"Myna","description":"Local-first AI subtitle player.","start_url":"./","display":"standalone","background_color":"#090a0a","theme_color":"#090a0a","icons":[{"src":"assets/icon-128.png","sizes":"128x128","type":"image/png"},{"src":"assets/icon-1024.png","sizes":"1024x1024","type":"image/png"}]}
